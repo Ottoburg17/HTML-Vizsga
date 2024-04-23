@@ -1,0 +1,51 @@
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+.nav {
+    justify-content: center;
+    background-color: #3c82b7;
+    overflow: hidden;
+}
+
+.nav a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.nav a:hover {
+    background-color: #dddddd;
+    color: rgb(48, 67, 212);
+}
+
+.footer{
+    text-align: center;
+}
+
+.first-button {
+    margin-right: 100px;
+    background-color:  #3c82b7;
+    color: white;
+}
+
+.first-button:hover {
+    background-color:  #dddddd;
+    color: #3c82b7;
+}
+
+
+.second-button {
+    margin-left: 100px;
+    background-color: #3c82b7;
+    color:  white;
+}
+
+.second-button:hover {
+    background-color:  #dddddd;
+    color:  #3c82b7;
+}
